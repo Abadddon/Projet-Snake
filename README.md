@@ -17,20 +17,21 @@
 7. Authors
 
 
-## Prerequisites
+## 1. Prerequisites
 ***
 • Python 3.10
 
 
-## Getting started
+## 2. Getting started
 ***
 • Insure Python is installed
+
 • Install the librairies : download the LIBRARIES1 document and install it typing "pip install -r LIBRARIES1.txt" 
 • Download the folder with the pictures
 • Put the path of the pictures in the code
 
 
-## Graphical interface main windows walkthrought
+## 3. Graphical interface main windows walkthrought
 ***
 • Main menu : first window launched by the program, allows the player to access the game selection window, score board window, command explanation window and game rules window.
 • game selection window : allows the player to select a game out of three choices by clicking on a button. A countdown window (3 seconds) will then appear before the game window is launched.
@@ -42,7 +43,7 @@
 • game3 window : window to play the vocal control snake , accessible by pressing the game3 button in game selection window.
 
 
-## Gameplay 
+## 4. Gameplay 
 ***
 • First select a game in the game select window
 • Then click on the window to start the game
@@ -55,7 +56,7 @@
 • Game 2 ends either when the snake has terminated all 5 ennemies (win) or when it dies (game over).
 
 
-## Features
+## 5. Features
 ***
 - [x] Graphical interface using Tkinter.
 - [x] Other windows management and display.
@@ -67,14 +68,14 @@
 - [x] Score update and display.
 
 
-## Acknowledgments
+## 6. Acknowledgments
 ***
 We would like to thank the Tkinter community for providing a versatile library for creating graphical user interfaces in Python.
 Additional thanks to the StackOverflow community for valuable insights and problem-solving support.
 Special thanks to Mr.Descharrière for the Computer Science Lectures and continuous support during the project.
 
 
-## Authors
+## 7. Authors
 ***
 4th year engineering students in Robotics and Instrumentation (FRANCE) :
    • Baptiste LESQUERRÉ-CAUDEBEZ
