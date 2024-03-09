@@ -72,6 +72,9 @@
 
 • Game 2 ends either when the snake has terminated all 5 ennemies (win) or when it dies (game over).
 
+• WARNING : Game 2 is not yet operatinal, voice controls have been disabled. For testing game 3 please refere to Game 3 v2 notebook in this repository.
+This notebook contains a prototype version of the game. It is operational but can crash the kernel after multiple program iterations.
+
 
 ## 5. Features
 ***
