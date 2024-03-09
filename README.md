@@ -95,5 +95,7 @@ Special thanks to Mr.Descharrière for the Computer Science Lectures and continu
 ## 7. Authors
 ***
 4th year engineering students in Robotics and Instrumentation (FRANCE) :
+
    • Baptiste LESQUERRÉ-CAUDEBEZ
+   
    • Charlène BEZIER
