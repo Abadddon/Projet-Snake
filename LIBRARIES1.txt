@@ -1,0 +1,9 @@
+random
+copy
+math
+tkinter
+Pillow
+matplotlib
+unittest
+doctest
+SpeechRecognition
