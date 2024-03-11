@@ -2,7 +2,7 @@
 
 ## Overview
 ***
-"The Deadly Snake !" is an Home-made version of the Snake game. The goal was to create few games based on the well-known game Snake using Tkinter. 
+"The Deadly Snake !" is a Home-made version of the Snake game. The goal was to create few games based on the well-known game Snake using Tkinter. 
 ![Snake Game Gif](https://i.gifer.com/Q2DZ.gif)
 
 
@@ -28,7 +28,7 @@
 
 • Install the librairies : download the LIBRARIES1 document and install it typing "pip install -r LIBRARIES1.txt" 
 
-• Download the folder with the pictures
+• Download the folder with the pictures and uncompress it (im_snake_zip.zip)
 
 • Put the path of the pictures in the code
 
